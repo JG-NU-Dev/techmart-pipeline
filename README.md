@@ -7,6 +7,8 @@
 ![Lint](https://github.com/JG-NU-Dev/techmart-pipeline/actions/workflows/lint.yml/badge.svg)
 ![Last Commit](https://img.shields.io/github/last-commit/JG-NU-Dev/techmart-pipeline)
 
+![Open Issues](/https://img.shield.io/github/issues/JG-NU-Dev/techmart-pipeline)
+
 <mark>*Replace `YOUR_USERNAME/YOUR_REPO` with your details*</mark>
 
 ## Project Overview
