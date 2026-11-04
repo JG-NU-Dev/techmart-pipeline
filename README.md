@@ -1,11 +1,13 @@
 # TechMart Data Pipeline
 
+
 ![Teaching](https://img.shields.io/badge/module-DE5M4-blue)
 ![Python Version](https://img.shields.io/badge/python-3.9--3.12-blue.svg)
 
 ![CI Pipeline](https://github.com/JG-NU-Dev/techmart-pipeline/actions/workflows/ci.yml/badge.svg)
 ![Lint](https://github.com/JG-NU-Dev/techmart-pipeline/actions/workflows/lint.yml/badge.svg)
 ![Last Commit](https://img.shields.io/github/last-commit/JG-NU-Dev/techmart-pipeline)
+
 ![Open Issues](https://img.shields.io/github/issues/JG-NU-Dev/techmart-pipeline)
 
 
